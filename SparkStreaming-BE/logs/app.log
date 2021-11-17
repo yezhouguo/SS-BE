@@ -1,0 +1,16 @@
+2021-11-17 20:45:15.972 [restartedMain] [StartupInfoLogger.java:50] INFO  com.example.springweb.SpringWebApplication - Starting SpringWebApplication on YOGA-14s with PID 33244 (C:\Users\yezhouguo\Desktop\SparkStreaming-BE\target\classes started by yezhouguo in C:\Users\yezhouguo\Desktop\SparkStreaming-BE) 
+2021-11-17 20:45:15.978 [restartedMain] [SpringApplication.java:647] INFO  com.example.springweb.SpringWebApplication - No active profile set, falling back to default profiles: default 
+2021-11-17 20:45:16.190 [restartedMain] [TomcatWebServer.java:90] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http) 
+2021-11-17 20:45:16.191 [restartedMain] [DirectJDKLog.java:173] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"] 
+2021-11-17 20:45:16.205 [restartedMain] [DirectJDKLog.java:173] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2021-11-17 20:45:16.205 [restartedMain] [DirectJDKLog.java:173] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22] 
+2021-11-17 20:45:16.225 [restartedMain] [DirectJDKLog.java:173] INFO  org.apache.catalina.core.ContainerBase.[Tomcat-21].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2021-11-17 20:45:16.226 [restartedMain] [ServletWebServerApplicationContext.java:284] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 245 ms 
+2021-11-17 20:45:16.306 [restartedMain] [ExecutorConfigurationSupport.java:171] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2021-11-17 20:45:16.330 [restartedMain] [ThymeleafAutoConfiguration.java:106] WARN  org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+2021-11-17 20:45:16.342 [restartedMain] [ExecutorConfigurationSupport.java:171] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler' 
+2021-11-17 20:45:16.352 [restartedMain] [OptionalLiveReloadServer.java:57] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2021-11-17 20:45:16.359 [restartedMain] [DirectJDKLog.java:173] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"] 
+2021-11-17 20:45:16.364 [restartedMain] [TomcatWebServer.java:202] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path '' 
+2021-11-17 20:45:16.365 [restartedMain] [StartupInfoLogger.java:59] INFO  com.example.springweb.SpringWebApplication - Started SpringWebApplication in 0.418 seconds (JVM running for 6744.983) 
+2021-11-17 20:45:16.366 [restartedMain] [ConditionEvaluationDeltaLoggingListener.java:63] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 

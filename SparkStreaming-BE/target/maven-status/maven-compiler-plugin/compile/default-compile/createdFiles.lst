@@ -1,0 +1,5 @@
+com\example\springweb\controller\WFController.class
+com\example\springweb\dao\WFInfo.class
+com\example\springweb\mapper\WFMapper.class
+com\example\springweb\service\WFService.class
+com\example\springweb\SpringWebApplication.class
